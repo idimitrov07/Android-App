@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370022970923 440 530c6548fefee8d123063b1d3e5705cecb0b9541 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$id.class
+1370022970931 409 09bd7fa34b16ec9d6d1b56e9f6567bac088d8f7b C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$menu.class
+1370022970926 424 982144018fc31034c6d393c5879f416c2ac40f95 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$layout.class
+1370022970934 493 26b19aec178a4b37aafbe5d513c95d2e642afb5c C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$string.class
+1370020464438 1902 30d5edd78687eb14062493d43d1ab00176b8188e C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\LogHelper.class
+1370020464566 1923 6dc8ef85870da1dd75476f38045cf1fb825b5543 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\MyLocationListener.class
+1369930869816 359 fdc73ac1e1da2010356e9bbf147ce969332b18da C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\BuildConfig.class
+1369930869782 482 faada894e924919263c56b8f52dfdc73ffaae454 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$dimen.class
+1369930720170 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\libs\android-support-v4.jar
+1370022970939 452 1e0b207e0f5cc90638f2396fd90f9519d9d382a7 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$style.class
+1370022970942 747 c55772ad7f538f5856c85bbaba871c00006e99f7 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R.class
+1370024394850 2991 af51d9e0d66cda14383ba343b71c31b92699fb7e C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\MainActivity.class
+1369930869772 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$attr.class
+1369930869787 428 1ed49d619414234638ef79ea1d514a42215216dc C:\Users\Hello\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$drawable.class
